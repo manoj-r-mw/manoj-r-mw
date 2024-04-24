@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently a intern in Meltwater</p>
+<p align="left">📚 I'm currently a intern in Meltwater .......</p>
 
 ###
 
