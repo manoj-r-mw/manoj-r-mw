@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Nothing !<br>📚 I'm currently a intern</p>
+<p align="left">📚 I'm currently a intern in Meltwater</p>
 
 ###
 
@@ -27,9 +27,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/manoj-r-mw/manoj-r-mw/output/snake.svg" alt="Snake animation" />
 
 ###
