@@ -1,33 +1,12 @@
-<h1 align="left">Hey !!!</h1>
+# 💫 About Me:
+🔭 I’m working as an Intern in Meltwater<br>🌱 I’m currently learning MEAN Stack<br><br>⚡ Selenophile
 
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=manoj-r-mw&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=manoj-r-mw&theme=slateorange&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-r-mw&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left">My name is Manoj</p>
-<p align="left">changes</p>
-###
+---
+[![](https://visitcount.itsvg.in/api?id=manoj-r-mw&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="left">About me</h2>
-
-## test
-
-###
-
-<p align="left">📚 I'm currently a intern in Meltwater .......</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
