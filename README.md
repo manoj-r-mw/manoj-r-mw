@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 HEY Manoj here
 🔭 I’m working as an Intern in Meltwater<br>🌱 I’m currently learning MEAN Stack<br><br>⚡ Selenophile
 
 # 📊 GitHub Stats:
