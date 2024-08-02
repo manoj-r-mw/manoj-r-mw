@@ -1,5 +1,5 @@
 # 💫 HEY Manoj here
-🔭 I’m working as an Intern in Meltwater<br>🌱 I’m currently learning MEAN Stack<br><br>⚡ Selenophile
+🔭 I’m working as an Intern in Meltwater<br>🌱 I’m currently Working on a  MEAN Stack project <br><br>⚡ Selenophile
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manoj-r-mw&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false)<br/>
